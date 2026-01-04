@@ -19,4 +19,5 @@ through secure, role-based access and streamlined data handling.
 https://dental-assistant-khaki.vercel.app/
 
 *Source code is private. Architecture walkthrough available upon request.*
+*Implementation details are intentionally omitted from the public documentation.*
 
